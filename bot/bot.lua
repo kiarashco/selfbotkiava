@@ -242,6 +242,7 @@ function create_config( )
      "id",
      "joke",
      "time",
+     "tex",
      "aparat",
      "azan",
      "tools",
