@@ -234,7 +234,6 @@ function create_config( )
      "version",
      "addplug",
      "help",
-     "salam",
      "getplug",
      "groupmanager",
      "id",
@@ -242,7 +241,7 @@ function create_config( )
      "weather",
      "webshot",
      },
-    sudo_users = {94746365,184111248},
+    sudo_users = {174997972},
     admin_users = {},
     disabled_channels = {}
   }
