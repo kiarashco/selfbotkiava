@@ -32,7 +32,7 @@ local function enable_channel(receiver, to_id)
 	_config.disabled_channels[receiver] = false
 
 	save_config()
-	return 'ربات کیاوا روشن شد در گروه :-)'
+	return 'ربات کیاوا روشن شد در گروه  😊'
 end
 
 local function disable_channel(receiver, to_id)
@@ -43,7 +43,7 @@ local function disable_channel(receiver, to_id)
 	_config.disabled_channels[receiver] = true
 
 	save_config()
-	return 'ربات شرکت کیاوا خاموش شد ;-)'
+	return 'ربات شرکت کیاوا خاموش شد  😉'
 end
 
 local function pre_process(msg)
