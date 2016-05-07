@@ -15,6 +15,9 @@ function run(msg, matches)
 ●#aparat اسم فرد یا فیلم 
 مشاهده فیلم از اپارات
 
+●#time شهر مورد نظر به لاتین
+ساعت شهر مورد نظر یا کشور
+
 ●#azan (ex:california,tehran)
 اذان در هر کشور
 
