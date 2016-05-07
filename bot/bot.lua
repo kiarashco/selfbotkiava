@@ -238,6 +238,7 @@ function create_config( )
      "groupmanager",
      "salam",
      "id",
+     "links",
      "joke",
      "time",
      "aparat",
