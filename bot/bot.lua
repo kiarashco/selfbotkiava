@@ -239,7 +239,6 @@ function create_config( )
      "salam",
      "rules",
      "id",
-     "links",
      "joke",
      "time",
      "aparat",
