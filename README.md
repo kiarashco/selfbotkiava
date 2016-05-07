@@ -28,4 +28,4 @@ kiavabot Team
 kiava Team Channel
 -----------------
 
-[kiava Team](http://telegram.me/kiavabot)
+[kiava Team](http://telegram.me/kiavabots)
