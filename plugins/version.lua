@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-    return "Self-Bot v2 \n by BeatBot Team :) <3 \n @BeatBot_Team"
+    return "selfbot v1 \n by kiavabot Team :) <3 \n @kiavabots"
 end 
 return {
   patterns = {
