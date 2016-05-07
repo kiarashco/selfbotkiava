@@ -238,6 +238,7 @@ function create_config( )
      "groupmanager",
      "salam",
      "location",
+     "kickme",
      "rules",
      "id",
      "joke",
