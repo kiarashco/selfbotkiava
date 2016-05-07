@@ -12,6 +12,12 @@ function run(msg, matches)
 ●#plugins
 مشاهده لیست پلاگین ها
 
+●#aparat اسم فرد یا فیلم 
+مشاهده فیلم از اپارات
+
+●#azan (ex:california,tehran)
+اذان در هر کشور
+
 ●#plugins enable (plugin name)
 فعال کردن پلاگینی با نام (plugin name)
 
