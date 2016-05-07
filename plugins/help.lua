@@ -30,6 +30,9 @@ function run(msg, matches)
 ●#azan (ex:california,tehran)
 اذان در هر کشور
 
+●#loc محل مورد نظر
+ارسال لوکیشن محل مورد نظر
+
 ●#plugins enable (plugin name)
 فعال کردن پلاگینی با نام (plugin name)
 
