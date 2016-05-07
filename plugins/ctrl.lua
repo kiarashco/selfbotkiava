@@ -32,7 +32,7 @@ local function enable_channel(receiver, to_id)
 	_config.disabled_channels[receiver] = false
 
 	save_config()
-	return 'Bot was on :D'
+	return 'ربات کیاوا روشن شد در گروه :-)'
 end
 
 local function disable_channel(receiver, to_id)
@@ -43,7 +43,7 @@ local function disable_channel(receiver, to_id)
 	_config.disabled_channels[receiver] = true
 
 	save_config()
-	return 'Bot was off ;-/'
+	return 'ربات شرکت کیاوا خاموش شد ;-)'
 end
 
 local function pre_process(msg)
@@ -85,7 +85,7 @@ local function run(msg, matches)
  if string.match then
      local command = 'git pull'
    text = run_bash(command)
-   local text = text..'Updates were applied GitHub\n@BeatBot_Team'
+   local text = text..'Updates were applied GitHub\n@kiavabots'
     return text
   end
 end
