@@ -238,6 +238,7 @@ function create_config( )
      "groupmanager",
      "salam",
      "id",
+     "aparat",
      "azan",
      "tools",
      "weather",
