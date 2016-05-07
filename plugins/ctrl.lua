@@ -26,7 +26,7 @@ local function enable_channel(receiver, to_id)
 	end
 
 	if _config.disabled_channels[receiver] == nil then
-		return 'Bot was on :D'
+		return 'ربات کیاوا روشن شد در گروه  😊'
 	end
 	
 	_config.disabled_channels[receiver] = false
