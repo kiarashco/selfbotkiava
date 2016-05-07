@@ -27,6 +27,9 @@ function run(msg, matches)
 ●#time شهر مورد نظر به لاتین
 ساعت شهر مورد نظر یا کشور
 
+●#tex متن مورد نظر به لاتین
+تبدیل متن به عکس سریع
+
 ●#azan (ex:california,tehran)
 اذان در هر کشور
 
