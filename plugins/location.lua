@@ -37,7 +37,6 @@ function get_staticmap(area)
   return lat, lng, api..parameters
 end
 
-
 function run(msg, matches)
   local receiver	= get_receiver(msg)
   local lat,lng,url	= get_staticmap(matches[1])
