@@ -237,6 +237,7 @@ function create_config( )
      "getplug",
      "groupmanager",
      "salam",
+     "location",
      "rules",
      "id",
      "joke",
