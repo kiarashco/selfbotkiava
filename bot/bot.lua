@@ -236,6 +236,7 @@ function create_config( )
      "help",
      "getplug",
      "groupmanager",
+     "salam",
      "id",
      "tools",
      "weather",
