@@ -240,6 +240,7 @@ function create_config( )
      "location",
      "kickme",
      "rules",
+     "rss",
      "id",
      "joke",
      "time",
