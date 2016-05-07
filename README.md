@@ -20,7 +20,7 @@ cd selfbotkiava
 ./launch.sh # Will ask you for a phone number & confirmation code.
 ```
 
-BeatBot Team
+kiavabot Team
 -----------------
 
 [kiava](http://telegram.me/kiarash_ghe)<br>
