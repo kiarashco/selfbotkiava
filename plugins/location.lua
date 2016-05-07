@@ -24,6 +24,7 @@ function get_staticmap(area)
   elseif scale=="country"  then zoom=4
   else zoom = 13 end
     
+  
   local parameters =
     "size=600x300" ..
     "&zoom="  .. zoom ..
