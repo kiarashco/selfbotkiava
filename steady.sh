@@ -19,11 +19,6 @@
 # It should be able to recover the telegram bot in any case telegram-cli crashes, freezes or whatever.
 # This script works by tracing ctxt swithes value in kernel procces at a $RELOADTIME 
 # So it can detect any kind of kernel interruption with the procces and reload the bot.
-# ____             _   ____        _  _____                    
-#| __ )  ___  __ _| |_| __ )  ___ | ||_   _|__  __ _ _ __ ___  
-#|  _ \ / _ \/ _` | __|  _ \ / _ \| __|| |/ _ \/ _` | '_ ` _ \ 
-#| |_) |  __/ (_| | |_| |_) | (_) | |_ | |  __/ (_| | | | | | |
-#|____/ \___|\__,_|\__|____/ \___/ \__||_|\___|\__,_|_| |_| |_|
 
 
 # Some script variables
@@ -61,7 +56,7 @@ cat << EOF
  
 EOF
 echo -e "                \e[100m                Steady script           \e[00;37;40m"
-echo -e "               \e[01;34m                    by iicc                \e[00;37;40m"
+echo -e "               \e[01;34m                    by kiarash                \e[00;37;40m"
 echo ""
 cat << EOF
  $bld$f1▄ ▀▄   ▄▀ ▄   $f2 ▄▄▄████▄▄▄    $f3  ▄██▄     $f4▄ ▀▄   ▄▀ ▄   $f5 ▄▄▄████▄▄▄    $f6  ▄██▄  $rst
@@ -206,7 +201,7 @@ cat << EOF
  
 EOF
 echo -e "                \e[100m                Steady script           \e[00;37;40m"
-echo -e "               \e[01;34m                    by iicc                \e[00;37;40m"
+echo -e "               \e[01;34m                    by kiarash                \e[00;37;40m"
 echo ""
 cat << EOF
  $bld$f1▄ ▀▄   ▄▀ ▄   $f2 ▄▄▄████▄▄▄    $f3  ▄██▄     $f4▄ ▀▄   ▄▀ ▄   $f5 ▄▄▄████▄▄▄    $f6  ▄██▄  $rst
@@ -491,7 +486,7 @@ while getopts ":tsTSih" opt; do
 	i)
 	echo -e "\e[1m"
 	echo -e ""
-	echo "steady.sh bash script v1.2 iicc 2016 DBTeam" >&2
+	echo "steady.sh bash script v1.2 kiarash 2016 kiava" >&2
 	echo ""
 	exit 1
       ;;
