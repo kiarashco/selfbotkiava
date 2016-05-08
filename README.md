@@ -34,5 +34,5 @@ kiava Team Channel
 ## Admins commands
 **Only admins and sudo users can run these commands.**
 ### Group creation
->#help [ارسال کمک به خصوصی شما در صورت ریپورت نبودن]
+>[!/#]help [ارسال کمک به خصوصی شما در صورت ریپورت نبودن]
 >
